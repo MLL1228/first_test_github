@@ -1,1 +1,2 @@
-first time using git, excited!
+First time using git, excited!
+add a line
